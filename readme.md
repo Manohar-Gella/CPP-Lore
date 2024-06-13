@@ -1,6 +1,6 @@
 # cpp_lore
 
-![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="200" />
 
 ## Welcome to cpp_lore!
 
@@ -12,7 +12,7 @@ This repository is a testament to my undying love for C++, despite our complicat
 
 ### Why C++?
 
-![Why C++](https://i0.wp.com/understandingcontext.com/wp-content/uploads/2013/06/Brain-in-Use-1.jpg?resize=590%2C590&ssl=1)
+<img src="https://preview.redd.it/sz2ze92n2ae61.png?width=960&crop=smart&auto=webp&s=c84d0988c2e3d243a7e8d1dfe42b57e2f44cd5a9" width="400" />
 
 ### Getting Started
 
