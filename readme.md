@@ -12,7 +12,7 @@ This repository is a testament to my undying love for C++, despite our complicat
 
 ### Why C++?
 
-![Why C++](https://i.imgflip.com/4/3vzej1.jpg)
+![Why C++](https://preview.redd.it/sz2ze92n2ae61.png?width=960&crop=smart&auto=webp&s=c84d0988c2e3d243a7e8d1dfe42b57e2f44cd5a9)
 
 ### Getting Started
 
